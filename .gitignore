@@ -99,6 +99,7 @@ fabric.properties
 
 
 ### Windows template
+
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
@@ -177,3 +178,7 @@ typings/
 
 # dotenv environment variables file
 .env
+
+### zshell
+
+.zsh_config
