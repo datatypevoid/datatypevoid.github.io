@@ -4,10 +4,10 @@
         <title>David Niciforovic's blog</title>
         <description>My name is David Newman, but I'm better known as David Niciforovic. I dabble in indie game development as well as web development and design. I'm 26 and programming is my life. If I'm not busting out code, I'm probably not conscience.
 </description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Jun 2017 20:51:25 -0400</pubDate>
-        <lastBuildDate>Wed, 21 Jun 2017 20:51:25 -0400</lastBuildDate>
+        <link>//datatypevoid.github.io/</link>
+        <atom:link href="//datatypevoid.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 21 Jun 2017 21:05:39 -0400</pubDate>
+        <lastBuildDate>Wed, 21 Jun 2017 21:05:39 -0400</lastBuildDate>
         <generator>Jekyll v3.4.3</generator>
         
         <item>
@@ -28,8 +28,8 @@
 
 </description>
             <pubDate>Fri, 16 Jun 2017 14:08:23 -0400</pubDate>
-            <link>http://localhost:4000/jekyll/update/2017/06/16/welcome-to-jekyll.html</link>
-            <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/06/16/welcome-to-jekyll.html</guid>
+            <link>//datatypevoid.github.io/jekyll/update/2017/06/16/welcome-to-jekyll.html</link>
+            <guid isPermaLink="true">//datatypevoid.github.io/jekyll/update/2017/06/16/welcome-to-jekyll.html</guid>
             
             
             <category>jekyll</category>
