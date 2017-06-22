@@ -21,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
   design. I'm 26 and programming is my life. If I'm not busting out
   code, I'm probably not conscience.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "//datatypevoid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: datatype_void
 github_username:  datatypevoid
 
