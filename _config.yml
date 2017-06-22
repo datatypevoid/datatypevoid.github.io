@@ -45,3 +45,5 @@ sass:
 
 # Other
 repository: datatypevoid/datatypevoid.github.io
+google_analytics: true
+google_analytics_id: 'UA-73809333-2'
